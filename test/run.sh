@@ -1,1 +1,1 @@
-gcc -g test.c -o test && ./test
+gcc ../src/log.c test.c -o test && ./test

@@ -1,4 +1,4 @@
-#include "/home/code/c/log/log.c"
+#include "../src/log.h"
 
 int main(){
 	LOG(INFO,"this is info log");
